@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KpDtqGm/wAx92HIt1cm8tnsBRvunCB8CV2oNqbojgx88Brg5BWA1IE0LEQlb5hleBenGvBSvRxM1HEn9uPp79w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Imagination\\source\\repos\\ZoomVisitor'sStatisticServer\\ZoomVisitor'sStatisticServer\\ZoomVisitor'sStatisticServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Imagination\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
